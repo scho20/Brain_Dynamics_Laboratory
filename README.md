@@ -1,1 +1,1 @@
-# Brain_Dynamics_Laboratory
+# Brain Dynamics Laboratory
